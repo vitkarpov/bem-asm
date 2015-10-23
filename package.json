@@ -1,0 +1,31 @@
+{
+  "name": "bem-ass",
+  "version": "0.1.0",
+  "description": "Simple ASSembler for BEMinar projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitkarpov/bem-ass.git"
+  },
+  "keywords": [
+    "bem"
+  ],
+  "author": "vitkarpov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vitkarpov/bem-ass/issues"
+  },
+  "homepage": "https://github.com/vitkarpov/bem-ass#readme",
+  "dependencies": {
+    "bem-xjst": "^4.2.5",
+    "vow": "^0.4.11"
+  },
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "gulp": "^3.9.0",
+    "gulp-mocha": "^2.1.3"
+  }
+}
