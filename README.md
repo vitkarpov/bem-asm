@@ -39,4 +39,4 @@ bemass(['page1', 'page2']).then(function() {
 });
 ```
 
-Check out [the tests](github.com/vitkarpov/bem-ass/tests) to catch an idea
+Check out [the tests](https://github.com/vitkarpov/bem-ass/tests) to catch an idea
