@@ -1,14 +1,14 @@
 {
-  "name": "bem-ass",
+  "name": "bem-asm",
   "version": "0.1.0",
   "description": "Simple Assembler for BEM projects with zero-config",
   "main": "index.js",
   "scripts": {
-    "test": "gulp test"
+    "test": "gulp"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vitkarpov/bem-ass.git"
+    "url": "git+https://github.com/vitkarpov/bem-asm.git"
   },
   "keywords": [
     "bem"
@@ -16,9 +16,9 @@
   "author": "vitkarpov",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vitkarpov/bem-ass/issues"
+    "url": "https://github.com/vitkarpov/bem-asm/issues"
   },
-  "homepage": "https://github.com/vitkarpov/bem-ass#readme",
+  "homepage": "https://github.com/vitkarpov/bem-asm#readme",
   "dependencies": {
     "bem-xjst": "^4.2.5",
     "vow": "^0.4.11"
