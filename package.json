@@ -1,7 +1,7 @@
 {
   "name": "bem-asm",
   "version": "0.1.0",
-  "description": "Simple Assembler for BEM projects with zero-config",
+  "description": "Simple assembler for BEMinar project",
   "main": "index.js",
   "scripts": {
     "test": "gulp"
